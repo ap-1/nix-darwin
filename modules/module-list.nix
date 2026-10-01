@@ -52,6 +52,7 @@
   ./networking
   ./networking/applicationFirewall.nix
   ./nix
+  ./nix/lix-remote-build.nix
   ./nix/linux-builder.nix
   ./nix/nix-darwin.nix
   ./nix/nixpkgs.nix
